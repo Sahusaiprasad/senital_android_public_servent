@@ -91,3 +91,10 @@ Admin access is granted manually via Firebase custom claims — it cannot be sel
 
 This project was built for [HACK 2 SKILLS
 ] and is licensed under the MIT License.
+
+
+APP_WORK_FLOW
+=== > INTERFACE 
+<img width="1080" height="2404" alt="Screenshot_20260708_181003" src="https://github.com/user-attachments/assets/d8d81f06-06cf-466e-ad70-eac36ec09806" />
+
+
