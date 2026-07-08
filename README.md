@@ -95,6 +95,9 @@ This project was built for [HACK 2 SKILLS
 
 APP_WORK_FLOW
 === > INTERFACE 
-<img width="1080" height="2404" alt="Screenshot_20260708_181003" src="https://github.com/user-attachments/assets/d8d81f06-06cf-466e-ad70-eac36ec09806" />
+
+<img width="1080" height="2404" alt="Screenshot_20260708_181012" src="https://github.com/user-attachments/assets/19e64464-8fa3-4776-91fb-4f4c7722f324" />
+
+
 
 
