@@ -93,10 +93,45 @@ This project was built for [HACK 2 SKILLS
 ] and is licensed under the MIT License.
 
 
-APP_WORK_FLOW
+ SENITAL_APP_WORK_FLOW
+
+=======APP ICON 
+<img width="1254" height="1254" alt="ChatGPT Image Jul 7, 2026, 06_07_51 PM" src="https://github.com/user-attachments/assets/31a5a0d2-2852-46d3-8a72-36b2bcaca9f8" />
+
+
 === > INTERFACE 
 
 <img width="1080" height="2404" alt="Screenshot_20260708_181012" src="https://github.com/user-attachments/assets/19e64464-8fa3-4776-91fb-4f4c7722f324" />
+== > ALLOW PERMISSON
+<img width="1080" height="2404" alt="Screenshot_20260708_185013" src="https://github.com/user-attachments/assets/8cb05021-9861-44c0-a871-f8d69cc4d703" />
+
+==> USER ACCOUNT
+<img width="1080" height="2404" alt="Screenshot_20260708_183730" src="https://github.com/user-attachments/assets/48556495-6c69-4d1c-abae-dac117b84101" />
+== >  HOME PAGE
+<img width="1080" height="2404" alt="Screenshot_20260708_181003" src="https://github.com/user-attachments/assets/5dd6c003-1f15-46da-8c84-bfe729a18727" />
+==> CONNECTION WITH FIREBASE
+<img width="1080" height="2404" alt="Screenshot_20260708_174317" src="https://github.com/user-attachments/assets/07ddd0f5-316e-4bb0-8dbe-4e32e4eb7f90" />
+== > REPORT ISSUE(COMPLAINT)
+<img width="1080" height="2404" alt="Screenshot_20260708_185104" src="https://github.com/user-attachments/assets/d8df0109-3a47-4641-aa9c-10db94c4995e" />
+== > USER TAB 
+<img width="1080" height="2404" alt="Screenshot_20260708_185216" src="https://github.com/user-attachments/assets/026d355a-8fe5-4049-8220-afc5437136dc" />
+  
+  =====ADMIN TAB LOGIN
+== LOGIN
+<img width="1080" height="2404" alt="Screenshot_20260708_173554" src="https://github.com/user-attachments/assets/4fd4e266-19f9-4dfc-86fe-3a6f1b5e924f" />
+== > ADMIN DASHBOARD
+<img width="1080" height="2404" alt="Screenshot_20260708_185237" src="https://github.com/user-attachments/assets/7781feae-9621-495f-83ca-3a7f7e88b530" />
+== > COMPLAINT HISTORY
+<img width="1080" height="2404" alt="Screenshot_20260708_185242" src="https://github.com/user-attachments/assets/d0e6eb5d-8f07-4c39-aa6e-012a49a0568a" />
+== > SOLVING PROBLEM
+<img width="1080" height="2404" alt="Screenshot_20260708_185248" src="https://github.com/user-attachments/assets/62955059-a30f-4391-9877-ceb88491e9c2" />
+
+
+
+
+
+
+
 
 
 
